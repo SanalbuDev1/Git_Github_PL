@@ -1,6 +1,7 @@
 Santiago Alvarez
 tex1
 tex2
+text3
 
 agregado
 agregado+1
